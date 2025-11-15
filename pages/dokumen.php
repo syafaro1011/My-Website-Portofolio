@@ -5,8 +5,8 @@ $documents = [
         'title' => 'Curriculum Vitae (CV)',
         'description' => 'My complete professional resume and work experience',
         'icon' => '<i class="fas fa-file-pdf"></i>',
-        'file' => '../assets/documents/CV_John_Doe.pdf',
-        'size' => '245 KB',
+        'file' => '../assets/documents/CV_4.pdf',
+        'size' => '804.3 KB',
         'type' => 'PDF',
         'color' => '#e74c3c'
     ],
