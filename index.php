@@ -42,8 +42,8 @@ include 'includes/header.php';
                 </div>
                 <div class="skill-card">
                     <div class="skill-icon"><i class="fas fa-mobile-alt"></i></div>
-                    <h3>Mobile First</h3>
-                    <p>Responsive design for all devices</p>
+                    <h3>Mobile Development</h3>
+                    <p>Creating user-friendly mobile applications for various platforms</p>
                 </div>
                 <div class="skill-card">
                     <div class="skill-icon"><i class="fas fa-bolt"></i></div>
