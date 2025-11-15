@@ -57,7 +57,7 @@ $documents = [
     ]
 ];
 
-$page_title = "Documents - John Doe";
+$page_title = "Documents - Syaiful Fathur Rozaq";
 $current_page = "dokumen";
 $base_url = "../";
 include '../includes/header.php'; 
